@@ -1,4 +1,4 @@
-package com.mohsinli.apputils
+package com.mohsinali.apputils
 
 import org.junit.Test
 
