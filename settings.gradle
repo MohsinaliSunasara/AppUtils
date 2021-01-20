@@ -1,3 +1,3 @@
-include ':AppUtils'
+include ':AppUtilsSecond'
 include ':app'
 rootProject.name = "AppUtils"
