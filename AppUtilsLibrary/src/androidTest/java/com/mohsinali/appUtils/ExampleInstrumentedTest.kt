@@ -1,4 +1,4 @@
-package com.mohsinali.apputils
+package com.mohsinali.appUtils
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
